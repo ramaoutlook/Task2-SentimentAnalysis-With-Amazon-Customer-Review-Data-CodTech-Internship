@@ -1,11 +1,17 @@
 # Machine Learning Internship Task2-Sentiment Analisys with NLP
 
 *COMPANY* : CODTECH IT SOLUTIONS
+
 *NAME* : BOYAPATI RAMA KRISHNA
+
 *INTERN ID* : CT04DK494
+
 *DOMAIN* : MACHINE LEARNING
+
 *DURATION* : 4 WEEKS
+
 *MENTOR* : NELLA SANTOSH
+
 
 # 📊 Sentiment Analysis of Amazon Customer Reviews Using NLP, TF-IDF, and Logistic Regression
 
