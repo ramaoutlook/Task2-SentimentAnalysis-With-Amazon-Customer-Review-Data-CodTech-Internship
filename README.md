@@ -10,7 +10,7 @@
 
 *DURATION* : 4 WEEKS
 
-*MENTOR* : NELLA SANTOSH
+*MENTOR* : NEELA SANTOSH
 
 
 # 📊 Sentiment Analysis of Amazon Customer Reviews Using NLP, TF-IDF, and Logistic Regression
