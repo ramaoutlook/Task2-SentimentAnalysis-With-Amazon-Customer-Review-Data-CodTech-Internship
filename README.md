@@ -72,7 +72,7 @@ The dataset represents a balanced mix of product reviews across a variety of cat
 
 ## 📈 Results & Observations
 
-- The Logistic Regression model achieved a test accuracy of **~90%**, demonstrating strong performance on the sentiment classification task.
+- The Logistic Regression model achieved a test accuracy of **~85%**, demonstrating strong performance on the sentiment classification task.
 - The confusion matrix showed balanced precision and recall across both positive and negative classes.
 - TF-IDF effectively captured key word-level features contributing to review sentiment.
 - Simpler models like Logistic Regression are highly interpretable and perform well when data is clean and preprocessed properly.
