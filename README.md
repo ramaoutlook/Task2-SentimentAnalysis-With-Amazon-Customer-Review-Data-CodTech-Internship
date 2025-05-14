@@ -76,6 +76,15 @@ The dataset represents a balanced mix of product reviews across a variety of cat
 - The confusion matrix showed balanced precision and recall across both positive and negative classes.
 - TF-IDF effectively captured key word-level features contributing to review sentiment.
 - Simpler models like Logistic Regression are highly interpretable and perform well when data is clean and preprocessed properly.
+![Image](https://github.com/user-attachments/assets/8f7aab0a-ecd1-428c-b902-2599ecd236ee)
+
+![Image](https://github.com/user-attachments/assets/42f3986c-5447-4200-837b-cc79eeb342f6)
+
+![Image](https://github.com/user-attachments/assets/eb1c2862-0c8f-494f-bf2e-aef581058996)
+
+![Image](https://github.com/user-attachments/assets/6a843c3e-da7a-4fe8-a458-1b85a3b24429)
+
+![Image](https://github.com/user-attachments/assets/cb30a016-b5c8-4830-bd2c-c77bd89119f8)
 
 ---
 
